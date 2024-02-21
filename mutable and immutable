@@ -1,1 +1,6 @@
-Mutable and 
+Mutable and Immutable objects in python
+Mutable objects: whenever object is initiated ,it is assigned a unique object id .the type of object is defined at runtime and cannot 
+be changed at run time .how ever if the state of the object is changed it is called mutable objects.
+Lists are mutable in python.we can add and remove elements from the list .
+Example : Add and remove items from a list in python.
+A list in python is mutable ,list provides the methods such as append(),insert(),extend(),remove(),and pop().
