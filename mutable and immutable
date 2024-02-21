@@ -4,3 +4,14 @@ be changed at run time .how ever if the state of the object is changed it is cal
 Lists are mutable in python.we can add and remove elements from the list .
 Example : Add and remove items from a list in python.
 A list in python is mutable ,list provides the methods such as append(),insert(),extend(),remove(),and pop().
+my_list=[1,2,3,4]
+my_list.append(7)
+my_list.pop(2)
+my_list.insert(6,8)
+my_list.remove(4)
+Immutable objects in python:whenever the object is initialised,once the object is created ,however it 
+cannot be changed is called immutable objects.
+Example :we will take tuple and try to do modify at the particular index, as tuple is an 
+immutable object.It throws an errorwhen we try to modify it.
+tuple1=(0,1,2,3)
+tuple1[0]=4
