@@ -1,0 +1,6 @@
+Naming variable conventions:
+Declaring the variable in python programming Language:
+Following are the rules we must follow:
+The name of the variable can have underscore(_).
+The name of the variable should not be any keyword.
+The name of the variable should not contain any special character.
