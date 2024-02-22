@@ -1,0 +1,10 @@
+List and array are used to store data as datastructures.
+List: A list is a data structure in python is mutable that has an ordered sequence of elements
+example:list=[1,2,3,4]
+print(list)
+
+Array: an array is a data structure that holds data in a linear format,array holds fixed number of elements.
+we have to import array module to declare arrary
+Example: import array as arr
+sample_array = arr.array("i",[1,2,3,4])
+print (sample_array)
