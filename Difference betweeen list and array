@@ -1,1 +1,6 @@
-
+List                                                      Array
+list are heterogeneous they can store            arrays are homogeneous they can store values of 
+values of different datatypes                     same data type
+There is no need of any import ofanymodule        we need to import module explicitly
+  in list .                                              to declare an array
+list cannot handle arthimetic operations         arrays can handle arthimetic operations.
